@@ -2,7 +2,6 @@
 using namespace std;
 
 // int main(){
-
 //     int x;
 // 	cin >> x;
 // 	cout << "value of x :" << x;
@@ -11,7 +10,6 @@ using namespace std;
 
 
 // int main(){
-
 // 	int x;
 // 	int y;
 // 	cin >> x;
@@ -31,7 +29,10 @@ int main (){
 	return 0 ;
 }
 
-
+// --------------------------------------------------
+// The bits/stdc++.h header is a shortcut that includes 
+// a vast number of standard C++ libraries,
+// ---------------------------------------------------
 
 // #include<bits/stdc++.h>
 // using namespace std;
