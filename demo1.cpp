@@ -7,4 +7,6 @@ int main(){
 	// "\n";
 
 	std ::cout <<"How are you ?";
+
+	return 0;
 }
